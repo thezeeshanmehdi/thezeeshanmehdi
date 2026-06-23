@@ -15,13 +15,13 @@
   <a href="https://www.linkedin.com/in/thezeeshanmehdi" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="mailto:zeeshanmehdi@gmail.com">
+  <a href="mailto:zeeshanmehdi443@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>&nbsp;
   <a href="https://github.com/thezeeshanmehdi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   </a>&nbsp;
-  <a href="https://wa.me/923120000000" target="_blank">
+  <a href="https://wa.me/923002055443" target="_blank">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" />
   </a>
 </p>
