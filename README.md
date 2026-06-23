@@ -3,9 +3,9 @@
 <!-- Banner / Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4C92,100:00C2FF&height=200&section=header&text=Zeeshan%20Mehdi&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Blockchain%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing SVG -->
+<!-- Typing SVG - bold + gradient color cycling per line -->
 <a href="https://github.com/thezeeshanmehdi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+Enthusiast;Mobile+App+Developer;Building+Real-World+Solutions" alt="Full Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00C2FF,F75C7E,A855F7,22D3EE,FF6B35&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+Enthusiast;Mobile+App+Developer;Building+Real-World+Solutions" alt="Full Stack Developer" />
 </a>
 
 <br/>
