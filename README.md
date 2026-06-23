@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/thezeeshanmehdi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💡+MERN+Stack+Specialist;🔐+Blockchain+Enthusiast;📱+Mobile+App+Developer;🌐+Building+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+Enthusiast;Mobile+App+Developer;Building+Real-World+Solutions" alt="Full Stack Developer" />
 </a>
 
 <br/>
@@ -153,7 +153,7 @@ const zeeshan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezeeshanmehdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezeeshanmehdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezeeshanmehdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 <br/>
