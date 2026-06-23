@@ -1,196 +1,210 @@
-<h1 align="center">Hi, I'm Zeeshan Mehdi</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/thezeeshanmehdi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Blockchain+Enthusiast;Software+Engineering+Student;Building+Web+%26+Mobile+Applications" alt="Typing SVG" />
+<!-- Banner / Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4C92,100:00C2FF&height=200&section=header&text=Zeeshan%20Mehdi&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Blockchain%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- Typing SVG -->
+<a href="https://github.com/thezeeshanmehdi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💡+MERN+Stack+Specialist;🔐+Blockchain+Enthusiast;📱+Mobile+App+Developer;🌐+Building+Real-World+Solutions" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Badges / Social Links -->
+<p>
+  <a href="https://www.linkedin.com/in/thezeeshanmehdi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:zeeshanmehdi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/thezeeshanmehdi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://wa.me/923120000000" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
----
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=thezeeshanmehdi&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-## 🚀 About Me
-
-🎓 Software Engineering Student at **Iqra University, Karachi**
-
-💻 Passionate **Full Stack Developer** with expertise in the **MERN Stack**
-
-🔐 Interested in **Blockchain Development**, **Web Applications**, and **Mobile Applications**
-
-🌱 Currently Learning:
-- Advanced MERN Stack
-- Blockchain Development
-- System Design
-- Cloud Computing
-
-⚡ Fun Fact:
-> I love building innovative solutions that solve real-world problems.
+</div>
 
 ---
 
-## 📫 Contact Me
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="mailto:zeeshanmehdi443gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="48" height="48"/>
-  </a>
-
-  <a href="https://wa.me/923002055443">
-    <img src="https://cdn.simpleicons.org/whatsapp" width="48" height="48"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/thezeeshanmehdi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://github.com/thezeeshanmehdi">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+```typescript
+const zeeshan = {
+  name        : "Zeeshan Mehdi",
+  role        : "Full Stack Developer",
+  university  : "Iqra University, Karachi 🎓",
+  focus       : ["MERN Stack", "Blockchain", "Mobile Apps"],
+  learning    : ["System Design", "Cloud Computing", "ZK Proofs"],
+  funFact     : "I turn coffee ☕ into scalable web applications 🚀",
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
+### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </p>
 
-### Backend
+  </td>
+  <td valign="top" width="33%">
 
+### ⚙️ Backend & DB
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Databases
+  </td>
+  <td valign="top" width="33%">
 
+### 🧰 Languages & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,kotlin" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 🔐 ZKP Anonymous Transaction System
+> *Privacy-preserving blockchain transactions*
 
-A Tornado Cash-inspired privacy-preserving transaction system using:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=bitcoin&logoColor=white)
 
-- Zero-Knowledge Proof Concepts
-- SHA-256 Commitments
-- Anonymous Withdrawals
-- Double-Spending Protection
+- Zero-Knowledge Proof concepts
+- SHA-256 commitment scheme
+- Anonymous withdrawal mechanism
+- Double-spending protection
 
----
+  </td>
+  <td width="50%" valign="top">
 
-### 🏥 CareRent
+### 🏥 CareRent — Medical Equipment Rental
+> *End-to-end rental management platform*
 
-Medical Equipment Rental Platform
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-Features:
+- Equipment & customer management
+- Real-time order tracking
+- Secure JWT authentication
 
-- Equipment Rental Management
-- Customer Management
-- Order Tracking
-- Secure Authentication
-
----
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🎓 Education Institute Management System
+> *Complete institute automation solution*
 
-A complete educational institute management solution featuring:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-- Student Management
-- Attendance Tracking
-- Faculty Management
-- Result Processing
+- Student & faculty management
+- Attendance & result processing
+- Complete academic workflow
 
----
+  </td>
+  <td width="50%" valign="top">
 
-### 📱 BaKismat Android App
+### 📱 BaKismat — Android Rewards App
+> *Reward-based engagement platform*
 
-Reward-based Android Application built using Kotlin.
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-Features:
+- Reward & referral system
+- User dashboard with analytics
+- Modern Material UI design
 
-- Reward System
-- User Dashboard
-- Referral System
-- Modern UI Design
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezeeshanmehdi&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezeeshanmehdi&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezeeshanmehdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezeeshanmehdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
----
+<br/>
 
-## 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thezeeshanmehdi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=FF6B35&currStreakLabel=00C2FF" />
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thezeeshanmehdi&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thezeeshanmehdi&theme=tokyonight&row=1&column=7" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thezeeshanmehdi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thezeeshanmehdi&theme=tokyo-night" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thezeeshanmehdi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF" />
+</div>
 
 ---
 
 ## 🎯 2026 Goals
 
-✅ Become an Expert MERN Stack Developer
-
-✅ Contribute to Open Source Projects
-
-✅ Build Production-Level Applications
-
-✅ Master Blockchain Development
-
-✅ Publish More Projects on GitHub
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=thezeeshanmehdi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<table>
+  <tr>
+    <td>✅ Become an Expert MERN Stack Developer</td>
+    <td>✅ Master Blockchain Development</td>
+  </tr>
+  <tr>
+    <td>✅ Contribute to Open Source Projects</td>
+    <td>✅ Build Production-Level Applications</td>
+  </tr>
+  <tr>
+    <td>✅ Publish More Projects on GitHub</td>
+    <td>✅ Launch a Personal Portfolio Website</td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<div align="center">
 
-<h4 align="center">Let's build something amazing together 🚀</h4>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=120&section=footer" />
+
+<h3>⭐ Thanks for visiting my profile! ⭐</h3>
+<p><i>Let's build something amazing together 🚀</i></p>
+
+</div>
