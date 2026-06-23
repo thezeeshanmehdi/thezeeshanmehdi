@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4C92,100:00C2FF&height=200&section=header&text=Zeeshan%20Mehdi&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Blockchain%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://github.com/thezeeshanmehdi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;CRM+Specialist;Graphic+Designer;Excel+Expert;Building+Scalable+Web+Applications;Turning+Ideas+Into+Reality;Creating+Impact+Through+Code;Future+Tech+Innovator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;CRM+Specialist;Graphic+Designer;Microsoft+Excel+Expert;Building+Scalable+Web+Applications;Turning+Ideas+Into+Reality;Creating+Impact+Through+Code;Future+Tech+Innovator" />
 </a>
 
 <br/>
