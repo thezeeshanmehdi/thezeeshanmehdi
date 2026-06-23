@@ -10,19 +10,19 @@
 
 <br/>
 
-<!-- Badges / Social Links -->
+<!-- Social Links with skillicons -->
 <p>
   <a href="https://www.linkedin.com/in/thezeeshanmehdi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:zeeshanmehdi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>&nbsp;
   <a href="https://github.com/thezeeshanmehdi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
   </a>&nbsp;
   <a href="https://wa.me/923120000000" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="48" height="48" alt="WhatsApp" />
   </a>
 </p>
 
