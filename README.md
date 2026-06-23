@@ -3,24 +3,10 @@
 <!-- Banner / Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4C92,100:00C2FF&height=200&section=header&text=Zeeshan%20Mehdi&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Blockchain%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing SVG with gradient -->
-<p align="center">
-  <svg width="900" height="50" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00C2FF"/>
-        <stop offset="50%" style="stop-color:#A855F7"/>
-        <stop offset="100%" style="stop-color:#F75C7E"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="38" text-anchor="middle"
-      font-family="Fira Code, monospace"
-      font-size="26" font-weight="700"
-      fill="url(#grad)">
-      Full Stack Developer | MERN | Blockchain
-    </text>
-  </svg>
-</p>
+<!-- Typing SVG -->
+<a href="https://github.com/thezeeshanmehdi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00C2FF,F75C7E,A855F7,22D3EE,FF6B35&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Specialist;Blockchain+Enthusiast;Mobile+App+Developer;Building+Real-World+Solutions" alt="Full Stack Developer" />
+</a>
 
 <br/>
 
